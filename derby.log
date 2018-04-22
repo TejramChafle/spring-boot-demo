@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sun Apr 22 13:57:57 IST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0162-ec77-7b36-0000077a6510 
-on database directory memory:C:\Users\Admin\IdeaProjects\SpringDefault Database Connect\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
-Loaded from file:/C:/Users/Admin/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+Sun Apr 22 20:50:25 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0162-edf1-1a2e-00000d6f13b8 
+on database directory memory:C:\Users\Admin\IdeaProjects\SpringDefaultDatabaseConnect\testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@439f5b3d 
+Loaded from jar:file:/C:/Users/Admin/IdeaProjects/SpringDefaultDatabaseConnect/target/SpringDefault-1.0-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.1.0.jar!/
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_131-b11
-user.dir=C:\Users\Admin\IdeaProjects\SpringDefault Database Connect
+user.dir=C:\Users\Admin\IdeaProjects\SpringDefaultDatabaseConnect
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
